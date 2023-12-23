@@ -21,7 +21,7 @@
     <p>I hope this intership will improve my knowledge ,skills and concept of web development
     </p>
     <h1>
-      Thank CODE SOFT
+      Thanks to CODE SOFT
     </h1>
   </body>
 </html>
